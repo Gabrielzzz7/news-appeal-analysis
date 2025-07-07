@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Fake News são mais apelativas? Uma análise linguística comparativa com notícias verídicas
 Autores: Gabriel Campos Prudente, Júlio Guerra Domingues, Ana Luiza Macêdo dos Santos, Alexandre Silva de Menezes Guerra
 
@@ -22,6 +21,6 @@ Abstract. This article investigates whether fake news uses more emotionally char
 
 2.  **Execute as Células:**
     Execute todas as células em ordem, do início ao fim (pelo menu "Ambiente de execução" > "Executar tudo"). O notebook já contém os comandos para instalar as bibliotecas necessárias.
-=======
-# news-appeal-analysis
->>>>>>> parent of e9fa6e8 (Update README.md)
+
+---
+README feito com auxílio de LLM (Gemini 2.5 Pro)
