@@ -1,17 +1,9 @@
 # Fake News são mais apelativas? Uma análise linguística comparativa com notícias verídicas
 Autores: Gabriel Campos Prudente, Júlio Guerra Domingues, Ana Luiza Macêdo dos Santos, Alexandre Silva de Menezes Guerra
 
-Abstract. This article investigates whether fake news uses more emotionally charged and appealing language than true news. Using a labeled dataset composed mainly of political news from the United States, we conducted a textual and linguistic analysis focusing on adjectives, adverbs and emotionally loaded terms. We combined qualitative and quantitative methods, including manual labeling and lightweight automated classification. The expected results include mapping linguistic patterns that make fake news more persuasive, contributing to the understanding of disinformation as a linguistic and social phenomenon.
-
-Com certeza. Você está certo, para um projeto no Colab, as instruções são bem mais simples.
-
-Aqui está a versão curta do `README.md` com a seção "Como Executar" ajustada especificamente para o ambiente do Google Colab.
-
----
-
-# Fake News são mais apelativas? Uma Análise Linguística Comparativa
-
 Análise computacional que investiga se notícias falsas (`fake news`) utilizam uma linguagem mais apelativa do que notícias verídicas, através de Processamento de Linguagem Natural e Machine Learning.
+
+Abstract. This article investigates whether fake news uses more emotionally charged and appealing language than true news. Using a labeled dataset composed mainly of political news from the United States, we conducted a textual and linguistic analysis focusing on adjectives, adverbs and emotionally loaded terms. We combined qualitative and quantitative methods, including manual labeling and lightweight automated classification. The expected results include mapping linguistic patterns that make fake news more persuasive, contributing to the understanding of disinformation as a linguistic and social phenomenon.
 
 ## Principais Achados
 
